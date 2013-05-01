@@ -1,0 +1,82 @@
+body                     { margin: 0; }
+header                   { background: none repeat scroll 0% 0% grey; height: 40px;}
+
+/*Facebook*/
+    #Facebook            { background-color: #E7EBF2; margin: 0 auto; width: 990px;}
+    #Facebook   header   { background: #3B5998; height: 38px; }
+
+    .profile_menu        { float: right; background: green}
+    .Facebook_menu       { float: left; background: #ffd700 }
+    .searchFacebook      { float: left; background: red; }
+
+    section              { float: left; width: 85%; background: black; }
+    .underhead           { float: right; background: #ffe4c4; }
+    .leftColom           { float: left; width: 48%; background: #ee82ee; }
+    .rightColom          { float: right; width: 48%; background: #00008b; }
+
+    aside                { float: right; width: 15%; background: #fa8072; }
+    .footerFacebook      { width: 100%; float: left; background: #f5deb3;}
+
+/*Gmail*/
+     #Gmail              { width: 100%; margin: 0px; }
+    .googleNav           { background: black; color: white; height: 40px; }
+    .googleSearch        { background: gray; height: 40px;}
+    .googleManage        { background: blue; height: 40px;}
+
+    .spam                { background: red; position: absolute; top: 120px; width: 10%; height: 400px; left: 90% }
+    .mailFolder          { height: 400px; position: absolute; top: 120px; width: 10%; background: green; }
+    .mailConteiner       { background: #ffd700; position: absolute; left: 10%; top: 120px; width: 80%; }
+
+
+/*Google_calendar*/
+    #Google_calendar     { width: 100%; margin: 0px; }
+
+    .bigCalendar         { background: #ffd700; position: absolute; left: 10%; top: 120px; width: 90%; height: 80%;
+                           overflow: scroll;}
+    .smallCalendar       { height: 400px; position: absolute; top: 120px; width: 10%; background: green; }
+
+/*google+*/
+    #googlePlus          { width: 100%; margin: 0px; background: grey; }
+
+    .google              { background: black; color: white; height: 80px; position: fixed; width: 100%; }
+    .newsList            { background: #ffd700; position: absolute; left: 10%; top: 80px; width: 74%; overflow: auto; }
+    .chatGoogle          { background: red; position: fixed; width: 14%; top: 80px; left: 85% }
+    .footerGoogle        { height: 20px; background: blue; bottom: 0px;}
+    .profileGoogle       { height: 400px; position: fixed; top: 80px; width: 10%; background: green; }
+
+/*Twitter*/
+    #twitter             { margin: 0 auto; width: 900px; background: white; }
+    #twitter nav         { background: gray; position: fixed; height: 30px; width: 900px; }
+    #twitter section     { float: left; width: 100%; background: green; position: relative; top: 30px; }
+    #twitter .leftColom  { float: left; width: 28%; background: #ee82ee; margin: 5px; }
+    #twitter .rightColom { float: right; width: 68%; background: #00008b; margin: 5px; }
+
+
+/*Knajpa*/
+    #knajpa              { margin: 0 10% auto; background: gray; }
+    #knajpa header       { background: white; height: 40px;}
+    #knajpa section      { float: left; width: 100%; background: green; }
+    #knajpa .leftC       { float: left; width: 30%; background: #ee82ee; }
+    #knajpa .rightC      { float: left; width: 70%; background: #00008b; height: 400px; }
+
+/*soundcloud*/
+    #soundcloud          { background: gray; }
+    #soundcloud header   { background: black; width: 100%; height: 40px; }
+
+    .artArtist           { float: left; background: #f5deb3; width: 80%; }
+    .twittArtist         { float: right; width: 10%; background: green; }
+    .profileArtist       { float: left; height: 100%; width: 10%; background: red; }
+
+/*GitHub*/
+     #gitHub             { background: white; margin: 0 auto; width: 920px; background: white }
+     #repositories       { float: right; width: 650px; background: green; }
+
+     .gitNav             { padding: 0; width: 920px; height: 40px; background: gray; }
+     .statistik          { background: hotpink; padding: 5px; float: left;}
+     .footerGit          { position: absolute; width: 920px; bottom: 0px; background: cornflowerblue; }
+     .profilMenu         { float: left; width: 260px; background: red; padding: 5px;}
+     .repositPop         { float: left; width: 310px; background: blue; padding: 5px;}
+     .repositFriend      { float: right; width: 310px; background: brown; padding: 5px;}
+
+
+

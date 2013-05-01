@@ -1,0 +1,12 @@
+body            { background: blue; margin: 0;}
+header          { background: red; width: 100%; height: 30px; left: 0px; }
+nav             { margin: 0 auto; width: 1000px; }
+
+#twitter        { margin: 0 auto; width: 1000px; }
+section         { background: white; position: relative; overflow: hidden; }
+
+.leftColom      { background: #f5deb3; float: left; width: 29%; margin: 5px;}
+.rightColom     { background: #ffd700; float: right; width: 69%; margin: 5px; overflow: auto;}
+
+
+footer          { background: red; margin: 0 auto; width: 1000px; overflow: auto; }
